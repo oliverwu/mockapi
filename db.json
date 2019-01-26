@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "test-text": {
+    "text": "hello world"
   }
 }

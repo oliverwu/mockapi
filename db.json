@@ -1,93 +1,4 @@
 {
-	"posts": [
-		{ "id": 1, "title": "Post 1" },
-		{ "id": 2, "title": "Post 2" },
-		{ "id": 3, "title": "Post 3" }
-	],
-	"comments": [
-		{ "id": 1, "body": "some comment", "postId": 1 },
-		{ "id": 2, "body": "some comment", "postId": 1 }
-	],
-	"profile": {
-		"name": "typicode"
-	},
-	"test-text": {
-		"text": "hello world"
-	},
-	"events": [
-		{
-			"id": 1,
-			"title": "Beach Cleanup",
-			"date": "Aug 28 2018",
-			"time": "10:00",
-			"location": "Daytona Beach",
-			"description": "Let's clean up this beach.",
-			"organizer": "Adam Jahr",
-			"category": "sustainability",
-			"attendees": [
-				{
-					"id": "abc123",
-					"name": "Adam Jahr"
-				},
-				{
-					"id": "def456",
-					"name": "Gregg Pollack"
-				},
-				{
-					"id": "ghi789",
-					"name": "Beth Swanson"
-				},
-				{
-					"id": "jkl101",
-					"name": "Mary Gordon"
-				}
-			]
-		},
-		{
-			"id": 2,
-			"title": "Park Cleanup",
-			"date": "Nov 12 2018",
-			"time": "12:00",
-			"location": "132 N Magnolia Street, Orlando, Florida",
-			"description": "We're going to clean up this park.",
-			"organizer": "Adam Jahr",
-			"category": "nature",
-			"attendees": [
-				{
-					"id": "ghi789",
-					"name": "Beth Swanson"
-				},
-				{
-					"id": "jkl101",
-					"name": "Mary Gordon"
-				}
-			]
-		},
-		{
-			"id": 3,
-			"title": "Pet Adoption Day",
-			"date": "Dec 2 2018",
-			"time": "12:00",
-			"location": "132 N Magnolia Street, Orlando, Florida",
-			"description": "Help animals find new homes.",
-			"organizer": "Gregg Pollack",
-			"category": "animal welfare",
-			"attendees": [
-				{
-					"id": "abc123",
-					"name": "Adam Jahr"
-				},
-				{
-					"id": "ghi789",
-					"name": "Beth Swanson"
-				},
-				{
-					"id": "jkl101",
-					"name": "Mary Gordon"
-				}
-			]
-		}
-	],
 	"products": [
 		{
 			"id": 20200001,
@@ -132,6 +43,69 @@
 			"name": "A2 5段",
 			"description": "澳洲优质奶粉",
 			"price": 30,
+			"weight": 1
+		},
+		{
+			"id": 20200006,
+			"imgUrl":
+				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
+			"name": "A2 6段",
+			"description": "澳洲优质奶粉",
+			"price": 30,
+			"weight": 1
+		},
+		{
+			"id": 20200007,
+			"imgUrl":
+				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
+			"name": "A2 7段",
+			"description": "澳洲优质奶粉",
+			"price": 37,
+			"weight": 1
+		},
+		{
+			"id": 20200008,
+			"imgUrl":
+				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
+			"name": "A2 8段",
+			"description": "澳洲优质奶粉",
+			"price": 38,
+			"weight": 1
+		},
+		{
+			"id": 20200009,
+			"imgUrl":
+				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
+			"name": "A2 9段",
+			"description": "澳洲优质奶粉",
+			"price": 39,
+			"weight": 1
+		},
+		{
+			"id": 20200010,
+			"imgUrl":
+				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
+			"name": "A2 10段",
+			"description": "澳洲优质奶粉",
+			"price": 40,
+			"weight": 1
+		},
+		{
+			"id": 2020011,
+			"imgUrl":
+				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
+			"name": "A2 11段",
+			"description": "澳洲优质奶粉",
+			"price": 41,
+			"weight": 1
+		},
+		{
+			"id": 20200012,
+			"imgUrl":
+				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
+			"name": "A2 12段",
+			"description": "澳洲优质奶粉",
+			"price": 42,
 			"weight": 1
 		}
 	]

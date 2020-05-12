@@ -133,69 +133,6 @@
 			"description": "澳洲优质奶粉",
 			"price": 30,
 			"weight": 1
-		},
-		{
-			"id": 20200006,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 6段",
-			"description": "澳洲优质奶粉",
-			"price": 30,
-			"weight": 1
-		},
-		{
-			"id": 20200007,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 7段",
-			"description": "澳洲优质奶粉",
-			"price": 37,
-			"weight": 1
-		},
-		{
-			"id": 20200008,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 8段",
-			"description": "澳洲优质奶粉",
-			"price": 38,
-			"weight": 1
-		},
-		{
-			"id": 20200009,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 9段",
-			"description": "澳洲优质奶粉",
-			"price": 39,
-			"weight": 1
-		},
-		{
-			"id": 20200010,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 10段",
-			"description": "澳洲优质奶粉",
-			"price": 40,
-			"weight": 1
-		},
-		{
-			"id": 2020011,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 11段",
-			"description": "澳洲优质奶粉",
-			"price": 41,
-			"weight": 1
-		},
-		{
-			"id": 20200012,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 12段",
-			"description": "澳洲优质奶粉",
-			"price": 42,
-			"weight": 1
 		}
 	]
 }

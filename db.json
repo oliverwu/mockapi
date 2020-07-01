@@ -3,17 +3,17 @@
 		{
 			"id": 20200001,
 			"name": "Material UI",
-			"description": "Learn Material UI",
+			"description": "Learn Material UI"
 		},
 		{
 			"id": 20200002,
 			"name": "Typescript",
-			"description": "Learn Typescript",
+			"description": "Learn Typescript"
 		},
 		{
 			"id": 20200003,
 			"name": "Redux Saga",
-			"description": "Learn Redux Saga",
+			"description": "Learn Redux Saga"
 		}
 	]
 }

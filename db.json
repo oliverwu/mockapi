@@ -2,111 +2,18 @@
 	"featuredProducts": [
 		{
 			"id": 20200001,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 1段",
-			"description": "澳洲优质奶粉",
-			"price": 30,
-			"weight": 1
+			"name": "Material UI",
+			"description": "Learn Material UI",
 		},
 		{
 			"id": 20200002,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 2段",
-			"description": "澳洲优质奶粉",
-			"price": 30,
-			"weight": 1
+			"name": "Typescript",
+			"description": "Learn Typescript",
 		},
 		{
 			"id": 20200003,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 3段",
-			"description": "澳洲优质奶粉",
-			"price": 30,
-			"weight": 1
-		},
-		{
-			"id": 20200004,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 4段",
-			"description": "澳洲优质奶粉",
-			"price": 30,
-			"weight": 1
-		},
-		{
-			"id": 20200005,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 5段",
-			"description": "澳洲优质奶粉",
-			"price": 30,
-			"weight": 1
-		},
-		{
-			"id": 20200006,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 6段",
-			"description": "澳洲优质奶粉",
-			"price": 30,
-			"weight": 1
-		},
-		{
-			"id": 20200007,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 7段",
-			"description": "澳洲优质奶粉",
-			"price": 37,
-			"weight": 1
-		},
-		{
-			"id": 20200008,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 8段",
-			"description": "澳洲优质奶粉",
-			"price": 38,
-			"weight": 1
-		},
-		{
-			"id": 20200009,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 9段",
-			"description": "澳洲优质奶粉",
-			"price": 39,
-			"weight": 1
-		},
-		{
-			"id": 20200010,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 10段",
-			"description": "澳洲优质奶粉",
-			"price": 40,
-			"weight": 1
-		},
-		{
-			"id": 2020011,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 11段",
-			"description": "澳洲优质奶粉",
-			"price": 41,
-			"weight": 1
-		},
-		{
-			"id": 20200012,
-			"imgUrl":
-				"https://emart-assets.s3-ap-southeast-2.amazonaws.com/a2_Platinum_Stage_1_02.png",
-			"name": "A2 12段",
-			"description": "澳洲优质奶粉",
-			"price": 42,
-			"weight": 1
+			"name": "Redux Saga",
+			"description": "Learn Redux Saga",
 		}
 	]
 }

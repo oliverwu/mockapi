@@ -15,5 +15,11 @@
 			"name": "Redux Saga",
 			"description": "Learn Redux Saga"
 		}
-	]
+	],
+	"profile": {
+	   	"name": "typicode"
+	},
+	"demo": {
+		"count": 1
+	}
 }

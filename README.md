@@ -6,4 +6,4 @@
 
 Fork it and change `db.json` values or create a repo with a `db.json` file.
 
-my-json-server.typicode.com/oliverwu/mockapi
+[my-demo](https://my-json-server.typicode.com/oliverwu/mockapi)
